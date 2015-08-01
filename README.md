@@ -1,2 +1,2 @@
 # FMJS
-A library and codes made by the members of FMJS.
+Currently unavailable for a moment.
