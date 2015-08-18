@@ -5,6 +5,6 @@
 *
 */
 
-(function() { // first we'll make an anonymous function
+(function() {
  // currently working for a moment.
-})();
+})(); // anonymous function
